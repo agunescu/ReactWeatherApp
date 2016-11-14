@@ -1,4 +1,4 @@
-# React with Redux Starter
+# React with Redux Weather App
 
 ###Getting Started###
 
