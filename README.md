@@ -9,7 +9,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 	> git clone git@github.com:agunescu/ReactWeatherApp.git
-	> cd ReactStarter
+	> cd ReactWeatherApp
 	> npm install
 	> npm start
 ```
